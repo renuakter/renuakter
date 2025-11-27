@@ -23,7 +23,7 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/renu012" target="_blank">
+  <a href="https://www.linkedin.com/renu012 "target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
   <a href="https://twitter.com/" target="_blank">
