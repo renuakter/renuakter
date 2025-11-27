@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&color=FF1493&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Renu+Akter+Suity;Backend+Developer+from+Bangladesh;Python+Django+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Renu+Akter+Suity;Backend+Developer+from+Bangladesh;Python+Django+Lover" />
 </h1>
+
 
 <h3 align="center">A Passionate Backend Developer from Bangladesh</h3>
 
