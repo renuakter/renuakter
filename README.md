@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renu-akter-sweety&label=Profile%20Views&color=111111&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=renu-akter-suity&label=Profile%20Views&color=111111&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Discipline-Backend%20Engineering-111111?style=for-the-badge" />
 </p>
 
