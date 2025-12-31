@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&color=FFFFFF&background=000000&center=true&vCenter=true&width=820&lines=Renu+Akter+Sweety;Backend+Developer+%7C+Python+%26+Django;Crafting+Scalable+Backend+Solutions" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&color=FFFFFF&background=000000&center=true&vCenter=true&width=820&lines=Renu+Akter+Suity;Backend+Developer+%7C+Python+%26+Django;Crafting+Scalable+Backend+Solutions" 
   />
 </h1>
 
@@ -61,7 +61,7 @@ and real-world problem solving.
   </li>
   <li>
     <b>Technical Writing:</b>
-    <a href="https://github.com/renu-akter-sweety/renu-akter-sweety" target="_blank">
+    <a href="https://github.com/renu-akter-sweety/renu-akter-suity" target="_blank">
       Articles & Notes
     </a>
   </li>
